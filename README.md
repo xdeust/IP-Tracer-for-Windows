@@ -70,7 +70,7 @@ setup.bat
 ```
 *(Note: It may be named `build.bat` depending on your version)*
 
-Or [Download Latest Version for Windows](https://github.com/xdeust/IP-Tracer-for-Windows/releases/latest/download/IP-Tracer-for-Windows.exe)
+Or [Download Latest Version for Windows](https://github.com/xdeust/IP-Tracer-for-Windows/releases/latest/download/IP-Tracer.exe)
 
 ---
 
@@ -81,6 +81,7 @@ Created with ❤️ by **[xdeust](https://github.com/xdeust)**.
 ## 📜 License
 
 This project is licensed under the **MIT License**. For more details, see the [LICENSE](LICENSE) file. 📝
+
 
 
 
